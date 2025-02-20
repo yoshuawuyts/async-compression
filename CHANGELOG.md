@@ -6,6 +6,12 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0), 
 
 ## Unreleased
 
+## [0.4.19](https://github.com/Nullus157/async-compression/compare/v0.4.18...v0.4.19) - 2024-02-20
+
+### Other
+
+- Update `bzip2` dependency to `0.5`.
+
 ## [0.4.18](https://github.com/Nullus157/async-compression/compare/v0.4.17...v0.4.18) - 2024-11-23
 
 ### Fixed
@@ -38,7 +44,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0), 
 ## [0.4.13](https://github.com/Nullus157/async-compression/compare/v0.4.12...v0.4.13) - 2024-10-02
 
 ### Feature
-- Update `brotli` dependency to to `7`.
+- Update `brotli` dependency to `7`.
 
 ## [0.4.12](https://github.com/Nullus157/async-compression/compare/v0.4.11...v0.4.12) - 2024-07-21
 
